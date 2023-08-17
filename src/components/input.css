@@ -1,0 +1,33 @@
+.form-container {
+    border: 1px solid #ccc;
+    padding: 16px;
+    margin: 20px 0;
+    border-radius: 8px;
+    box-shadow: 0px 2px 4px rgba(246, 204, 204, 0.1);
+  }
+  
+  .form-label {
+    display: block;
+    margin-bottom: 6px;
+    font-weight: bold;
+  }
+  
+  .form-input {
+    margin: 10px;
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+  }
+  
+  .form-button {
+      margin-top: 20px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+  }

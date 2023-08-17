@@ -1,0 +1,20 @@
+.cart-button {
+    background-color: rgb(75, 74, 64);
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .cart-icon {
+    font-size: 1.2rem;
+    margin-right: 8px;
+  }
+  
+  .cart-items {
+    font-size: 1rem;
+    font-weight: bold;
+  }

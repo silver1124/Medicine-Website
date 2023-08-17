@@ -1,0 +1,47 @@
+.chocolate-list {
+    margin-top: 20px;
+  }
+  
+  .chocolate-item {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .chocolate-details {
+    flex: 1;
+  }
+  
+  .chocolate-name {
+    font-weight: bold;
+    margin-bottom: 4px;
+  }
+  
+  .chocolate-description {
+    margin-bottom: 4px;
+  }
+  
+  .chocolate-price {
+    color: black;
+  }
+  
+  .chocolate-quantity {
+    margin-left: 10px;
+    width: 60px;
+    padding: 4px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .chocolate-button {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 6px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
